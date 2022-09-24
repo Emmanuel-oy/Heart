@@ -1,0 +1,17 @@
+body{
+    background-image: url("//images01.nicepage.com/a1389d7bc73adea1e1c1fb7e/12781214b31b51fc9d8e2a26/Untitled-1copy.jpg");
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+    min-height: 100vh;
+    background-size: cover;
+    width: 100vw;
+}
+
+
+.read{
+    background-color: crimson;
+    color: black;
+    border: none;
+    text-transform: uppercase;
+    padding: 15px 20px ;
+}
